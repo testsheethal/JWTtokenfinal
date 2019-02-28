@@ -23,6 +23,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/d.d/Downloads/java-jwt-3.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/d.d/Downloads/jwt-generator.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
